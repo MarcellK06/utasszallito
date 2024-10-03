@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "utasszallitok_konzol/1.0.0": {
+        "runtime": {
+          "utasszallitok_konzol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utasszallitok_konzol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/workspaces/utasszallito/utasszallitok_konzol/bin/Debug/net8.0/utasszallitok_konzol
+/workspaces/utasszallito/utasszallitok_konzol/bin/Debug/net8.0/utasszallitok_konzol.deps.json
+/workspaces/utasszallito/utasszallitok_konzol/bin/Debug/net8.0/utasszallitok_konzol.runtimeconfig.json
+/workspaces/utasszallito/utasszallitok_konzol/bin/Debug/net8.0/utasszallitok_konzol.dll
+/workspaces/utasszallito/utasszallitok_konzol/bin/Debug/net8.0/utasszallitok_konzol.pdb
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.AssemblyInfoInputs.cache
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.AssemblyInfo.cs
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.csproj.CoreCompileInputs.cache
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.sourcelink.json
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.dll
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/refint/utasszallitok_konzol.dll
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.pdb
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/utasszallitok_konzol.genruntimeconfig.cache
+/workspaces/utasszallito/utasszallitok_konzol/obj/Debug/net8.0/ref/utasszallitok_konzol.dll
