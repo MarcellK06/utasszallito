@@ -93,7 +93,7 @@
             this.button1.Size = new System.Drawing.Size(85, 47);
             this.button1.TabIndex = 6;
             this.button1.Text = "Számítás";
-            this.button1.onClick = "szamitas";
+            this.button1.onClick += "szamitas";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
