@@ -1,0 +1,7 @@
+.vs/**/*
+utasszallitok_grafikus/.vs/**/*
+utasszallitok_grafikus/bin/**/*
+utasszallitok_grafikus/obj/**/*
+utasszallitok_grafikus.Library/.vs/**/*
+utasszallitok_grafikus.Library/bin/**/*
+utasszallitok_grafikus.Library/obj/**/*

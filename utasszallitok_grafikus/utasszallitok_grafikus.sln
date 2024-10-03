@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "utasszallitok_grafikus", "utasszallitok_grafikus\utasszallitok_grafikus.csproj", "{33B8A078-8BAD-41C0-A972-EAEEE2990D23}"
+EndProject
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utasszallitok_grafikus", "utasszallitok_grafikus.Library\utasszallitok_grafikus.Library.csproj", "{47D52D6C-4AFC-4346-B0DE-499445FBD620}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(ProjectConfigurationPlatforms) = postSolution
+   {33B8A078-8BAD-41C0-A972-EAEEE2990D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+   {33B8A078-8BAD-41C0-A972-EAEEE2990D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+   {33B8A078-8BAD-41C0-A972-EAEEE2990D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+   {33B8A078-8BAD-41C0-A972-EAEEE2990D23}.Release|Any CPU.Build.0 = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+  GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDEE786-A21D-4DDB-813A-30C4C67265D1}
+	EndGlobalSection
+	GlobalSection(SolutionNotes) = postSolution
+	EndGlobalSection
+EndGlobal
